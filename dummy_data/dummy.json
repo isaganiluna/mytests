@@ -1,0 +1,92 @@
+[
+    {
+        "fname": "Yong",
+        "lname": "Crooker",
+        "tel": "(931)088-3890",
+        "address": "7002 Sit Rd",
+        "city": "Georgetown",
+        "state": "KS",
+        "zip": 58446
+    },
+    {
+        "fname": "Milton",
+        "lname": "Herrick",
+        "tel": "(593)007-2966",
+        "address": "8773 Adipiscing St",
+        "city": "Indianapolis",
+        "state": "SD",
+        "zip": 21408
+    },
+    {
+        "fname": "Shanstella",
+        "lname": "Jafri",
+        "tel": "(688)147-6118",
+        "address": "2598 Et Rd",
+        "city": "Hillsboro",
+        "state": "NH",
+        "zip": 44576
+    },
+    {
+        "fname": "Mark",
+        "lname": "Sadler",
+        "tel": "(316)819-3496",
+        "address": "4378 Ac Rd",
+        "city": "Vero Beach",
+        "state": "CA",
+        "zip": 58731
+    },
+    {
+        "fname": "Jacob",
+        "lname": "Michaels",
+        "tel": "(314)696-7788",
+        "address": "6172 Sed Ct",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": 48580
+    },
+    {
+        "fname": "Debbie",
+        "lname": "Alagisan",
+        "tel": "(537)788-4722",
+        "address": "3323 Dolor Ave",
+        "city": "York",
+        "state": "AR",
+        "zip": 76817
+    },
+    {
+        "fname": "Dusanka",
+        "lname": "Bruce",
+        "tel": "(347)397-0468",
+        "address": "9349 Vestibulum Rd",
+        "city": "Brookville",
+        "state": "WA",
+        "zip": 90376
+    },
+    {
+        "fname": "Benika",
+        "lname": "Crosswhite",
+        "tel": "(724)550-0582",
+        "address": "6017 Vestibulum Ln",
+        "city": "Driggs",
+        "state": "AR",
+        "zip": 26457
+    },
+    {
+        "fname": "Kassaundra",
+        "lname": "Vlasses",
+        "tel": "(900)314-3827",
+        "address": "6686 Pulvinar Ct",
+        "city": "Palm Beach Gardens",
+        "state": "OK",
+        "zip": 13646
+    },
+    {
+        "fname": "Erik",
+        "lname": "Leeman",
+        "tel": "(857)588-5804",
+        "address": "3595 Elementum Ct",
+        "city": "Rapid City",
+        "state": "VA",
+        "zip": 57972
+    }
+]

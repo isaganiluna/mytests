@@ -1,0 +1,66 @@
+
+@font-face {
+	font-family: gotham_light;
+	src: url("gotham_family/Gotham-Light.otf") format("opentype");
+}
+@font-face {
+	font-family: gotham_medium;
+	src: url("gotham_family/Gotham-Medium.otf") format("opentype");
+}
+@font-face {
+	font-family: gotham_book;
+	src: url("gotham_family/Gotham-Book.otf") format("opentype");
+}
+html,body,main,header,footer,div,content,ul,li,a,h1,h4,div,p{margin:0;padding:0;font-family: gotham_medium;}
+@media screen and (min-width: 48em){
+	main,content{width: 100%;}
+	header,footer,content{width:100%;}
+	header{overflow:hidden;}
+	h1{color:#fff;font-family: gotham_light;font-weight: normal;margin:1em;}	
+	h1 span{display: block;font-weight: bold;}
+	h3{font-family: gotham_book;color:#fff;font-weight: normal;}
+	a{font-family: gotham_medium;color:#001f5b;text-decoration: none;display: block;width:51%;float:left;font-size: .7em;font-weight: 800;}
+	header > a > img{}
+	header ul{width:40%;float:right;}
+	ul{list-style: none;}
+	content{display: block;height:auto;background-image:url("../images/content-bg.jpg");background-repeat: no-repeat; background-position: 0 fixed;background-size: cover;}
+	.profile_image{width: 8em;float: left;}
+	.categ > span{float: left;color: #fff;font-size: .9em;margin-top: .5em;margin-left: 1.2em;}
+	.categ > .clickhere{color: #fff;margin-top: .9em;margin-left: .5em;border: none;}
+	.cats{position: absolute;display: none;width: 24em;top: 50%;left: 50%;z-index: 50;border:1px solid #fff;margin-left:-14em;margin-top: -8em;border-radius: 5px;background-color:#fff;}
+	.cats > .close{display: block;width: 2em;color: #fff;position: relative;top: -13em;left: 23em;border-radius: 5px;font-size: 1em;text-align: center;padding: .3em 0;background-color:blue;border:none;}
+	.cats ul{}
+	.cats ul li{color:#000;}
+	section{overflow:hidden;}
+	.lawyer_info{width:44%;float:left;margin-left: .4em;}
+	.lawyer_info ul li{}
+	.lawyer_info ul li label{color:#fff;display: block;}
+	.lawyer_info ul li label input{display: block;border-radius: 24px;padding: 1em .5em;width: 23em;margin-top: 1em;border:1px solid #fff;text-align: center;}
+	.zip_code{background:#fff url('../images/1.png') no-repeat .7em .35em scroll;}
+	#categories{background:#fff url('../images/2.png') no-repeat .7em .35em scroll;}
+	.lawyer_ratings{width:54%;float:right;}
+	.lawyer_ratings ul li{margin-top: 2em;width: 100%;height: auto;float: left;}
+	.lawyer_ratings ul li p{float: right;width: 17em;}
+	.lawyer_ratings ul li p span{color:#fff;display: block;}
+	footer{}
+	footer div{width: 30%;display: inline-block;}
+	.policy_nav ul li a{color:#ccc;}
+
+}
+@media screen and (min-width: 64em){
+	header,footer{margin:0 auto;width:64em;}
+	header{
+	}	
+	content{
+	
+	}
+	.error{color:red;display: none;}
+	.zipalert{color:#fff;border:1px solid #fff;width:10em;display: none;}
+	section{
+		width:64em;
+		margin:0 auto;
+	}
+	footer{
+
+	}
+}

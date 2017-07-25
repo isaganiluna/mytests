@@ -1,0 +1,15 @@
+JS Dummy Data Effect:
+
+- Works only for Mozilla Firefox for due to the URL file://, I did not use a web server to  make the url http://localhost.
+- Chrome wont load JSON format if using the URL file://.
+
+Enter Zipcode: 58446 or 21408 or you can look inside dummy_data/dummy.json to see all zipcodes
+
+Click Here: If you click it will appear all names and city.
+
+
+
+My test built at free times.
+
+
+
